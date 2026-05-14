@@ -1,0 +1,6 @@
+bisindo_env/
+.venv/
+*.h5
+*.keras
+dataset_bisindo1/
+__pycache__/
